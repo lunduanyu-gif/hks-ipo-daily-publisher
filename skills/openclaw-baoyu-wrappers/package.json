@@ -1,0 +1,14 @@
+{
+  "name": "openclaw-baoyu-wrappers",
+  "version": "1.0.0",
+  "description": "OpenClaw wrappers for baoyu-skills - 封面图、信息图、小红书图片系列",
+  "main": "index.js",
+  "scripts": {
+    "cover": "node index.js cover",
+    "infographic": "node index.js infographic",
+    "xhs": "node index.js xhs"
+  },
+  "keywords": ["baoyu", "image", "cover", "infographic", "xiaohongshu"],
+  "author": "",
+  "license": "MIT"
+}
